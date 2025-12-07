@@ -1,0 +1,8 @@
+{
+  "name": "MindBackup - AI Second Brain",
+  "description": "A production-grade AI memory organizer that acts as your second brain. Features voice-to-memory, smart scheduling, document analysis, and location tracking.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
